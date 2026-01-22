@@ -6,6 +6,7 @@
 
 <h2> Certifications</h2>
 - [TryHackMe Pre-Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3RT1ORSXGO.pdf)
+![TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3RT1ORSXGO.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
