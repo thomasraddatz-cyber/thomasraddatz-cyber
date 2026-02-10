@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thomas! <br/><a href="https://github.com/thomasraddatz-cyber">Project Manager IT- and Web Projects</a>, <a href="https://de.linkedin.com/in/thomas-raddatz-8691a8157">Cybersecurity Advocate</a></h1>
+<h1>Hi, I'm Thomas! <br/><a href="https://github.com/thomasraddatz-cyber">Project Manager IT- and Web Projects</a>, <a href="https://de.linkedin.com/in/thomas-raddatz-8691a8157">CyberSecurity Advocate</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
