@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>John the Ripper</b>
-  - [DESCRIPTION](URL)
+  - [DESCRIPTION](https://github.com/thomasraddatz-cyber/John-the-Ripper/blob/main/README.md)
 - <b>Metasploit</b>
   - [DESCRIPTION](URL)
 
